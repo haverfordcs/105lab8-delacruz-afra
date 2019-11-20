@@ -36,8 +36,8 @@ Remember
     Criticize yourself first
     Slow down
 
-<Member1 name: >
-<Member2 name: >
+<Member1 name: Marisleysis De La Cruz>
+<Member2 name: Tazkia Afra>
 
 Problem 1: Implement three player game
 Problem 2: Implement the function count_paths in UniquePath.py 
